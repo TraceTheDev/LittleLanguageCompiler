@@ -86,6 +86,12 @@ move r0 a
 
 ---
 
+## License
+This project is licensed for personal, non-commercial use only. Redistribution, resale, or modification is prohibited without written permission from the author.  
+See the [LICENSE] file for full details.
+
+---
+
 ## Author  
 **Trace Davis**  
 - GitHub: [Trace0727](https://github.com/Trace0727)  
