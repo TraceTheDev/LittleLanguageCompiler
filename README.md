@@ -17,6 +17,7 @@ LittleCompiler/
 │   ├── LittleParserListener.java    # ANTLR-generated interface
 │   └── SimpleTableBuilder.java      # Custom listener for symbol tables, IR, and tiny code
 ├── Little.g4                        # Grammar file for ANTLR
+└──
 ```
 
 ---
